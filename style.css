@@ -1,0 +1,88 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-family: 'Exo', sans-serif;
+    background: linear-gradient(to bottom, #3366ff 0%, #99ff99 100%);
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    color: #ffffff
+}
+
+#linha1,
+#linha2,
+#linha3,
+#linha4,
+#linha5,
+#linha6,
+#linha7 {
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+    font-size: 20px;
+    color: #ffffff;
+}
+
+#linha1 {
+    padding-bottom: 10px;
+    padding-right: 70px;
+    padding-top: 20px;
+}
+
+#linha2 {
+    padding-bottom: 10px;
+    padding-left: 14px;
+    padding-top: 20px;
+}
+
+#linha4 {
+    padding-bottom: 10px;
+    padding-left: 90px;
+    padding-top: 20px;
+}
+
+#linha5 {
+    padding-bottom: 10px;
+    padding-top: 20px;
+}
+
+#linha6 {
+    padding-bottom: 10px;
+    padding-top: 20px;
+}
+
+#linha7 {
+    padding-right: 286px;
+    padding-bottom: 10px;
+    padding-top: 20px;
+}
+
+input,
+select {
+    border-radius: 5px;
+}
+
+#botao {
+    display: flex;
+    justify-content: center;
+    padding-left: 200px;
+    padding-bottom: 4px;
+    height: 40px;
+}
+
+
+#cadastro {
+    background-color: rgba(55, 74, 173, 0.468);
+    margin-left: 300px;
+    margin-right: 300px;
+    padding-bottom: 100px;
+    padding-top: 100px;
+    border-radius: 100px;
+}
+
+img {
+    padding-left: 350px;
+    width: 80px;
+}
